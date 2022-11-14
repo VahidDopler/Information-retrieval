@@ -1,0 +1,23 @@
+{
+  "name": "information_retrievak",
+  "version": "1.0.0",
+  "description": "This is a config file for Levenshtein project and KGram Indexing",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VahidDopler/Information-retrieval.git"
+  },
+  "author": "VahidDopler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VahidDopler/Information-retrieval/issues"
+  },
+  "homepage": "https://github.com/VahidDopler/Information-retrieval#readme",
+  "dependencies": {
+    "core-js": "^3.25.2",
+    "prompt-sync": "^4.1.6",
+    "underscore": "^1.13.6"
+  }
+}
